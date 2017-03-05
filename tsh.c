@@ -352,6 +352,9 @@ void do_bgfg(char **argv)
  */
 void waitfg(pid_t pid)
 {
+    //this is replacement of waitpid function
+
+    
     return;
 }
 
