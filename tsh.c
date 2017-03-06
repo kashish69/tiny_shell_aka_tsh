@@ -4,6 +4,7 @@
  * <Put your name and login ID here>
  * name:Kashish 
  * Email-id: 201501069@daiict.ac.in
+ * contributors: rishi
  */
 #include <stdio.h>
 #include <stdlib.h>
